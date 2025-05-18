@@ -13,4 +13,5 @@ vim.opt.splitbelow = true
 vim.opt.splitright = true
 vim.opt.wrap = true
 
+vim.o.mouse = ""
 vim.g.snacks_animate = false

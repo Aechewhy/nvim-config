@@ -1,3 +1,4 @@
 return{
-  {"folke/flash.nvim", enabled = true}
+  {"folke/flash.nvim", enabled = false}
+
 }
